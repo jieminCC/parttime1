@@ -1,0 +1,57 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?yx5rg8');
+  src:  url('fonts/icomoon.eot?yx5rg8#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?yx5rg8') format('truetype'),
+    url('fonts/icomoon.woff?yx5rg8') format('woff'),
+    url('fonts/icomoon.svg?yx5rg8#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-lishi1:before {
+  content: "\e900";
+}
+.icon-lishi2:before {
+  content: "\e901";
+}
+.icon-zhuye1:before {
+  content: "\e902";
+}
+.icon-zhuye2:before {
+  content: "\e903";
+}
+.icon-wode1:before {
+  content: "\e904";
+}
+.icon-wode2:before {
+  content: "\e907";
+}
+.icon-xuncha1:before {
+  content: "\e908";
+}
+.icon-xuncha2:before {
+  content: "\e909";
+}
+.icon-password:before {
+  content: "\e905";
+}
+.icon-account:before {
+  content: "\e906";
+}
